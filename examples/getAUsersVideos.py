@@ -1,4 +1,4 @@
-from TikTokApi import TikTokApi
+-3from TikTokApi import TikTokApi
 # Starts TikTokApi
 api = TikTokApi()
 

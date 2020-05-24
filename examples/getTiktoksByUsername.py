@@ -2,9 +2,9 @@ from TikTokApi import TikTokApi
 
 api = TikTokApi()
 
-count = 30
+count = 10
 
-tiktoks = api.byUsername('americanredcross', count=count)
+tiktoks = api.byUsername('definitelynotjakez', count=count)
 
 for tiktok in tiktoks:
     print(tiktok)
